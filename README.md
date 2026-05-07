@@ -89,4 +89,4 @@ pip install -r requirements.txt
 
 [@Detsu123](https://github.com/Detsu123)
 
-AI Legends 2026 — Mongolian AI Competition
+AI Legends 2026 
