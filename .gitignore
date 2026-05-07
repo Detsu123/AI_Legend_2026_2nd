@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (Kaggle competition data — нийтэд хуваалцах эрхгүй)
+*.csv
+*.parquet
+data/
+input/
+
+# Submissions
+submission*.csv
+sub_*.csv
+
+# Models
+*.pkl
+*.joblib
+*.txt.model
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs
+*.log
