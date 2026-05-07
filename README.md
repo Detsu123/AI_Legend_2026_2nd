@@ -38,9 +38,9 @@
 
 | Task | RMSLE (validation) |
 |---|---|
-| Store Daily | (өөрөө бөглөнө) |
-| Category Daily | (өөрөө бөглөнө) |
-| Product Weekly | (өөрөө бөглөнө) |
+| Store Daily | SMAPE: 17.7256%  |  RMSLE: 0.26600  |  RMSE: 170.9450 |
+| Category Daily | SMAPE: 15.6404%  |  RMSLE: 0.22819  |  RMSE: 158.8425 |
+| Product Weekly | SMAPE: 80.1315%  |  RMSLE: 0.65479  |  RMSE: 18.7616 |
 
 **Public Leaderboard:** 2-р байр
 
